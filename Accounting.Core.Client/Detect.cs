@@ -31,7 +31,7 @@ namespace Accounting.Core.Client
                 .Last()
                 .InnerText);
 
-            Assert.AreEqual(totalDebit, totalCredit, "Wrong entry in transaction 001");
+            Assert.AreEqual(totalDebit, totalCredit, "Wrong entry");
         }
     }
 }
