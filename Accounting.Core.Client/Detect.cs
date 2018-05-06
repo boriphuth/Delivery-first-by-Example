@@ -10,7 +10,7 @@ namespace Accounting.Core.Client
     public class Detect
     {
         [TestMethod]
-        public void watch_transaction_001()
+        public void watch_sell_goods_and_build_generalJournal_report()
         {
             // Detect
             var targetWatch = Path.Combine("results", "report.html");
