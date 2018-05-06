@@ -8,7 +8,7 @@ namespace Accounting.Core.Client
     public class Delivery
     {
         [TestMethod]
-        public void sell_1_goods_receive_cash_1000_from_customer()
+        public void sell_goods_and_build_generalJournal_report()
         {
             var generalJournal = new Account()
             {
