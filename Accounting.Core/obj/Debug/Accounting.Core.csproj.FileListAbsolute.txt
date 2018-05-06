@@ -1,0 +1,5 @@
+E:\งานเขียน\Test-last\Calculator.Tests\Accounting.Core\bin\Debug\Accounting.Core.dll
+E:\งานเขียน\Test-last\Calculator.Tests\Accounting.Core\bin\Debug\Accounting.Core.pdb
+E:\งานเขียน\Test-last\Calculator.Tests\Accounting.Core\obj\Debug\Accounting.Core.csproj.CoreCompileInputs.cache
+E:\งานเขียน\Test-last\Calculator.Tests\Accounting.Core\obj\Debug\Accounting.Core.dll
+E:\งานเขียน\Test-last\Calculator.Tests\Accounting.Core\obj\Debug\Accounting.Core.pdb
