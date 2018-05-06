@@ -77,10 +77,10 @@ namespace Accounting.Core.Client
                 Description = "รายได้ขายสินค้า"
             });
 
-            // ธุรกรรมการค้า 004 - จ่ายสินค้าขายนาย ข. 2 ชิ้น 1800 บาท
+            // ธุรกรรมการค้า 004 - จ่ายสินค้าขายนาย ข. 2 ชิ้น 1600 บาท
             var transaction4 = new AccountTransaction("004")
             {
-                Description = "จ่ายสินค้าขายนาย ข. 2 ชิ้น 1800 บาท"
+                Description = "จ่ายสินค้าขายนาย ข. 2 ชิ้น 1600 บาท"
             };
             generalJournal.AccountEntries.Add(new AccountEntry(transaction4)
             {
